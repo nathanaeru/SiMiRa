@@ -2,6 +2,8 @@
 
 Download di sini: [Releases](https://github.com/nathanaeru/SiMiRa/releases)
 
+---
+
 ## Third-Party Attributions & Licenses
 
 This project relies on several open-source SDKs, plugins, and packages. The attributions and licensing details for each are listed below.
@@ -24,11 +26,15 @@ This project relies on several open-source SDKs, plugins, and packages. The attr
 | **[workmanager](https://pub.dev/packages/workmanager)** | `^0.9.0+3` | Flutter Community | [BSD-3-Clause](https://pub.dev/packages/workmanager/license) | Background task scheduler using Android WorkManager and iOS BGTaskScheduler. |
 | **[permission_handler](https://pub.dev/packages/permission_handler)** | `^12.0.3` | Baseflow | [MIT](https://pub.dev/packages/permission_handler/license) | Cross-platform API to request and check permissions. |
 | **[device_info_plus](https://pub.dev/packages/device_info_plus)** | `^13.2.0` | Flutter Community | [BSD-3-Clause](https://pub.dev/packages/device_info_plus/license) | Flutter plugin providing detailed device hardware and OS version information. |
+| **[envied](https://pub.dev/packages/envied)** | `^1.1.1` | Peter Cinibulk | [MIT](https://pub.dev/packages/envied/license) | Environment variable generator and compile-time string obfuscator. |
+| **[crypto](https://pub.dev/packages/crypto)** | `^3.0.6` | Dart Team (Google LLC) | [BSD-3-Clause](https://pub.dev/packages/crypto/license) | Cryptographic hashing algorithms (SHA-256, HMAC, MD5) for Dart. |
 
 ### Development & Build Tools
 
 | Package / Tool | Version | Publisher / Author | License | Description & Reference |
 | :--- | :--- | :--- | :--- | :--- |
+| **[envied_generator](https://pub.dev/packages/envied_generator)** | `^1.1.1` | Peter Cinibulk | [MIT](https://pub.dev/packages/envied_generator/license) | Builder code generator for envied environment classes. |
+| **[build_runner](https://pub.dev/packages/build_runner)** | `^2.4.9` | Dart Team (Google LLC) | [BSD-3-Clause](https://pub.dev/packages/build_runner/license) | Concrete build tool to run code generators for Dart packages. |
 | **[flutter_lints](https://pub.dev/packages/flutter_lints)** | `^6.0.0` | Flutter Team (Google LLC) | [BSD-3-Clause](https://pub.dev/packages/flutter_lints/license) | Recommended lint rules for Flutter code quality. |
 | **[rename_app](https://pub.dev/packages/rename_app)** | `^1.6.6` | Onat Çalık | [MIT](https://pub.dev/packages/rename_app/license) | Tool to rename Flutter app display name and package identifier. |
 | **[flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)** | `^0.14.4` | Flutter Community | [MIT](https://pub.dev/packages/flutter_launcher_icons/license) | Helper to generate platform-specific launcher icons. |
