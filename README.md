@@ -25,7 +25,7 @@ This project relies on several open-source SDKs, plugins, and packages. The attr
 | **[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)** | `^17.0.0` | Michael Buhot (MaikuB) | [BSD-3-Clause](https://pub.dev/packages/flutter_local_notifications/license) | Cross-platform local notification display and scheduling plugin. |
 | **[workmanager](https://pub.dev/packages/workmanager)** | `^0.9.0+3` | Flutter Community | [BSD-3-Clause](https://pub.dev/packages/workmanager/license) | Background task scheduler using Android WorkManager and iOS BGTaskScheduler. |
 | **[permission_handler](https://pub.dev/packages/permission_handler)** | `^12.0.3` | Baseflow | [MIT](https://pub.dev/packages/permission_handler/license) | Cross-platform API to request and check permissions. |
-| **[device_info_plus](https://pub.dev/packages/device_info_plus)** | `^13.2.0` | Flutter Community | [BSD-3-Clause](https://pub.dev/packages/device_info_plus/license) | Flutter plugin providing detailed device hardware and OS version information. |
+| **[flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage)** | `^9.2.2` | Mogol / German Saprykin | [BSD-3-Clause](https://pub.dev/packages/flutter_secure_storage/license) | Secure encrypted key-value storage using Keychain (iOS) & Keystore (Android). |
 | **[envied](https://pub.dev/packages/envied)** | `^1.1.1` | Peter Cinibulk | [MIT](https://pub.dev/packages/envied/license) | Environment variable generator and compile-time string obfuscator. |
 | **[crypto](https://pub.dev/packages/crypto)** | `^3.0.6` | Dart Team (Google LLC) | [BSD-3-Clause](https://pub.dev/packages/crypto/license) | Cryptographic hashing algorithms (SHA-256, HMAC, MD5) for Dart. |
 
